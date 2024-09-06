@@ -124,8 +124,8 @@ footer {
 
 .footer-logo {
     width: 150px; /* Adjusted size for better fit */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 20px; /* Space between logo and text */
+    height: 150px; /* Maintain aspect ratio */
+    /*margin-right: 20px; /* Space between logo and text */
 }
 
 .text-div {
