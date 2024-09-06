@@ -5,7 +5,7 @@ Ellabelle Garcia
 BS Computer Science, University of the Philippines Los Baños
 
 ### Live Website Link:
-[https://your-username.github.io/portfolio/](https://your-username.github.io/portfolio/)
+https://cmsc100-laboratory.github.io/02-my-github-page-ellabellegarcia/
 
 ---
 
